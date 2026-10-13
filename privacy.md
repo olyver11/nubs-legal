@@ -49,6 +49,8 @@ This information is stored locally within the App's storage and, where necessary
 
 This information is not uploaded to Nubs or to a Nubs-operated server.
 
+**iCloud sync.** If you are signed in to iCloud, Nubs uses Apple's iCloud (CloudKit) to sync your game progress to your own private iCloud database, so it can be restored on your devices. This data is stored by Apple in your iCloud account under Apple's privacy policy; it is not accessible to us and is not stored on any Nubs-operated server. You can turn this off at any time in Settings → [your name] → iCloud, and you can delete it in Settings → [your name] → iCloud → Manage Storage.
+
 ## 3. Widgets, Dynamic Island, Lock Screen, and Live Activities
 
 Nubs can display your characters through features provided by iOS, including:
